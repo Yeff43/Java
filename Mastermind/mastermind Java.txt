@@ -1,0 +1,13 @@
+1. 1r jugador define 8 colores:
+	- Uso un array de 8 indices
+	- Hago que el array me genere 1 combinacion de 5 	digitos
+	- los guardo 
+
+2. 2do jugador adivina combinacion de colores
+	- con otro array almaceno los intentos del segundo ´player, despues comparo el array usando .lenght
+
+3. se resta un intento de rondas
+	
+4. comparo la combinacion original con la combinacion adivinada
+
+5. Si es similar en algun indice, generar respuesta
